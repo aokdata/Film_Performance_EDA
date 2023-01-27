@@ -18,11 +18,11 @@ This analysis was limited by the amount of financial data I had for films. For a
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 Question: what types of films are currently doing the best at the box office?
-
-Types = Genres
-Currently = last 10 years
-Best = highest ROI with highest average ratings
-
+<br>
+Types = Genres <br>
+Currently = last 10 years <br>
+Best = highest ROI with highest average ratings <br>
+<br>
 Goal: deliver actionable insights to help decide what type of films to create.
 
 
@@ -30,8 +30,8 @@ Goal: deliver actionable insights to help decide what type of films to create.
 
 We are going to look at data taken from IMDB and The Numbers.com
 
-IMDB database: film details and rating information
-The Numbers.com CSV: budget and sales data
+IMDB database (https://www.imdb.com/): film details and rating information
+The Numbers.com (https://www.the-numbers.com/) CSV: budget and sales data
 
 Each record in the data represents a film along with variables such as genres, release year, average rating, vote counts, production budgets, and more.
 

@@ -39,14 +39,13 @@ Each record in the data represents a film along with variables such as genres, r
 ### Visualizations
 
 #### ROI over Time for Top Ten ROI Genres
-
+![TopROI_Genres_ovr_Time](https://user-images.githubusercontent.com/120589094/215112411-7caaaca3-af83-4add-9fe6-9c7416337587.png)
 
 #### ROI over Time for all films by Drama Sci-Fi Thriller Directors
-
+![Top10ROI_DST_Dir_ovr_Time](https://user-images.githubusercontent.com/120589094/215112581-83c38719-e298-4f9b-a622-9726d6df3aa2.png)
 
 #### ROI of Drama Sci-Fi Thrillers by Release Month
-
-
+![DST_Release Month](https://user-images.githubusercontent.com/120589094/215112651-a504e90b-d10c-4638-9915-f77daa785666.png)
 
 ## Conclusion
 Based on ROI trends in the industry, I would recommend making a Drama Sci-Fi Thriller film due to a rising ROI trend, consistently high average ratings, and low competition. As director, I would recommend M. Night Shyamalan, who is very successful when directing thrillers. Finally, I would recommend releaseing this film in January to increase our chance at success.

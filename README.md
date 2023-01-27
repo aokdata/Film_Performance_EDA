@@ -2,9 +2,9 @@
 
 Aidan O'Keefe
 
-Project Notebook
+Project Notebook (https://github.com/aokdata/Film_Performance_EDA/blob/main/Film_Performance_EDA.ipynb)
 
-Project Presentation
+Project Presentation (https://github.com/aokdata/Film_Performance_EDA/blob/main/presentation.pdf)
 
 ## Overview
 
